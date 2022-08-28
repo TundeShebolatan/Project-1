@@ -6,7 +6,7 @@ STEP 0: Preparing prerequisites
 >
 > `sudo apt update`
 
-![Apache2 status](../Project-1\Images\Ubuntu-update.PNG)
+![Ubuntu status](Images/Ubuntu-update.PNG)
 
 STEP 1: Installing Apache2 and updating the firewall
 
@@ -16,7 +16,7 @@ STEP 1: Installing Apache2 and updating the firewall
 >
 >`sudo systemctl status apache2`
 
-![Apache2 status](../Project-1\Images\Apache2-status.PNG)
+![Apache2 status](Images/Apache2-status.PNG)
 
 >Check if Apache server can be accessed via Ubuntu shell
 >
